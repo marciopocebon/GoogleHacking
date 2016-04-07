@@ -10,21 +10,32 @@ Don't try this at home. In fact, don't even try this.
 
 ## The Dorkiest Dorks
 
+```
 ?filetype:inc mysql_connect -database.mysql.inc
+```
 
+```
 ?filetype:ini WS_FTP  
+```
 
+```
 ?site:github.com master/wp_config.php password blob DB_PASSWORD
 ?inurl:wp-config -intext:wp-config "'DB_PASSWORD'"
+```
 
+```
 ?site:github.com master/id_rsa
+```
 
+```
 ?".php?id="
+```
 
+```
 ?intitle: index of / mp3
 ?intitle: index of / private
 ?intitle: index of / photos
-
+```
 
 ## Prevention
 
